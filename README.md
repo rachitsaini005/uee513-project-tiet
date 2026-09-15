@@ -9,7 +9,7 @@ B.E. Electrical Engineering, 6th Semester — Thapar Institute of Engineering
 
 ## Contents
 
-- **[`UEE513_Combined_Report.pdf`](./UEE513_Combined_Report.pdf)** — full report covering:
+- **[`Report`](./UEE513_Report_102304007.pdf)** — full report covering:
   - Experiments 1–4 (EI-core inductor fabrication, buck-converter inductor design,
     single-phase transformer construction, 125 kVA transformer core/window design)
   - Laboratory Assignment 1 (transformer cooling-tube design; a Python transformer
