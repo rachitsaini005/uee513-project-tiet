@@ -4,8 +4,8 @@ Laboratory and assignment work for **UEE513 (Electrical System Design)**,
 B.E. Electrical Engineering, 6th Semester — Thapar Institute of Engineering
 & Technology, Patiala.
 
-**Author:** Rachit Saini (102304007), Subgroup 3D11
-**Faculty:** Dr. Sourav Ganguli, EIED
+**Author:** Rachit Saini (102304007)
+**Faculty:** Dr. Sourav Ganguli, EIED, TIET
 
 ## Contents
 
